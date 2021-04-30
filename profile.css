@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    font-family: cursive;
+    background-image: url(profile-back.jpg);
+    background-repeat: no-repeat;
+}
+.user-info{
+    text-align: left;
+    font-size: 30px;
+    color: black;
+    font-family: cursive;
+    font-weight: bold;
+}
+#profile{
+    border-radius: 50%;
+}
+a:link{
+    text-decoration: none;
+    color: rgb(54, 4, 54);
+}
