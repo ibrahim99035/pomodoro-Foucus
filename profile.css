@@ -18,3 +18,7 @@ a:link{
     text-decoration: none;
     color: rgb(54, 4, 54);
 }
+a:hover{
+    color: rgb(12, 39, 39);
+    text-decoration: underline solid;
+}
