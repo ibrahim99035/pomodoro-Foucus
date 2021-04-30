@@ -37,3 +37,8 @@ button:hover{
 h1{
     font-size: 60px;
 }
+#image-hover:hover{
+    box-shadow: 0 7px 16px 0 rgb(192, 25, 25), 0 7px 20px 0 rgb(192, 25, 25);
+    background: transparent;
+    box-sizing: inherit;
+}
