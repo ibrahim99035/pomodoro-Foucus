@@ -1,0 +1,55 @@
+body{
+    text-align: center;
+    font-family: cursive;
+    background-image: url(sign-back.jpg);
+    background-repeat: no-repeat;
+}
+button{
+    background-color: rgba(1, 184, 216, 0.678);
+    border-radius: 25%;
+    color: rgb(3, 29, 20);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: monospace;
+}
+button:hover{
+    background-color: #4caf50;
+    color: antiquewhite;
+    box-shadow: 0 7px 16px 0 rgb(27, 8, 8), 0 7px 20px 0 rgb(27, 8, 8);
+}
+* {box-sizing: border-box}
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+  }
+  
+  input[type=text]:focus, input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
+  }
+  
+  hr {
+    border: 1px solid #f1f1f1;
+    margin-bottom: 25px;
+  }
+
+  h1{
+    font-size: 60px;
+  }
+
+  p{
+      font-size: 25px;
+  }
+
+  b{
+      font-size: 30px;
+      color: #0a1e24;
+  }
