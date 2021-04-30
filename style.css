@@ -28,6 +28,7 @@ button{
     font-size: 30px;
     font-weight: bold;
     font-family: monospace;
+    width: auto;
 }
 button:hover{
     background-color: #4caf50;

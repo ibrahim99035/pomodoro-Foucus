@@ -10,6 +10,7 @@ body{
     color: black;
     font-family: cursive;
     font-weight: bold;
+    width: 100%;
 }
 #profile{
     border-radius: 50%;
